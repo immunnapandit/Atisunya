@@ -29,7 +29,7 @@ const cardsData = [
   {
     index: 2,
     title: "Business Marketing",
-    description: `The goal of Jamisu Tech's commercial marketing solutions is to improve your brand, connect with the right people, and provide quantifiable outcomes. From strategic planning to implementation, we blend innovation with data-driven insights to increase visibility, produce high-quality leads, and quicken the expansion of your company in a cutthroat industry.`,
+    description: `The goal of AtiSunya Infotech commercial marketing solutions is to improve your brand, connect with the right people, and provide quantifiable outcomes. From strategic planning to implementation, we blend innovation with data-driven insights to increase visibility, produce high-quality leads, and quicken the expansion of your company in a cutthroat industry.`,
     image: BusinessConsultationImage,
     imageDescription: "When it comes to growing a business, most entrepreneurs tend to get stuck at a certain point and become frustrated, as they don't know what to do.",
     icon: MarketingIcon,
@@ -38,7 +38,7 @@ const cardsData = [
   {
     index: 3,
     title: "Business Support",
-    description: `Jamisu Tech offers all-inclusive business assistance to enable you to run efficiently and expand with assurance. We provide the knowledge, tools, and direction you require to preserve effectiveness, increase output, and accomplish long-term success—from simplifying procedures to overcoming obstacles.`,
+    description: `AtiSunya Infotech offers all-inclusive business assistance to enable you to run efficiently and expand with assurance. We provide the knowledge, tools, and direction you require to preserve effectiveness, increase output, and accomplish long-term success—from simplifying procedures to overcoming obstacles.`,
     image: BusinessAnalysisImage,
     imageDescription: "When it comes to growing a business, most entrepreneurs tend to get stuck at a certain point and become frustrated, as they don't know what to do.",
     icon: SupportIcon,
